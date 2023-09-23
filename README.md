@@ -1,0 +1,2 @@
+# netmakerscript
+ justatest
